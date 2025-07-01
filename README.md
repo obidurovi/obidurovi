@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/obidurovidev" target="blank"><img src="https://img.shields.io/twitter/follow/obidurovidev?logo=twitter&style=for-the-badge" alt="obidurovidev" /></a> </p>
 
-- 🔭 I’m currently working on **Messenger App**
+- 🔭 I’m currently working on **Ecommerce Project**
 
 - 🌱 I’m currently learning **React Native**
 
